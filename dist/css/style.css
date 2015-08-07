@@ -1,0 +1,35 @@
+.carousel-innter .carousel-image {
+  margin-right: auto;
+  margin-left: auto;
+  display: auto; }
+
+.logo {
+  margin-top: 50px;
+  margin-left: 125px; }
+
+.navbar-brand {
+  font-size: 25px;
+  font-family: 'Playfair Display', serif; }
+
+.img-responsive {
+  display: inline-block; }
+
+.site-info {
+  margin-top: 100px;
+  margin-bottom: 10px;
+  text-align: center; }
+
+.navbar-default {
+  background-color: #ffffff;
+  border: none; }
+
+.navbar-right {
+  margin-right: 100px; }
+
+.home {
+  margin-top: 100px; }
+
+.jumbotron {
+  background-image: url("/images/DSCN1078.jpg");
+  background-size: cover;
+  height: 800px; }
